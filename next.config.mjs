@@ -17,14 +17,7 @@ const nextConfig = {
     'rc-picker',
     'next-translate-plugin',
     'next-translate'
-  ],
-  i18n: undefined,
-  // Cấu hình để export static site
-  output: 'export',  // Thêm cấu hình này để Next.js xuất site tĩnh
-  
-  // Nếu bạn cần thêm cấu hình basePath hoặc assetPrefix cho GitHub Pages:
-  basePath: '/Nevel-Tech---Test',
-  assetPrefix: '/Nevel-Tech---Test',
+  ]
 };
 
 export default nextConfig;
