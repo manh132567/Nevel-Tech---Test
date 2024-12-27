@@ -24,4 +24,3 @@ nevel-tech-test-xi.vercel.app/
 ![pc](https://raw.githubusercontent.com/manh132567/Nevel-Tech-Test/c94c806014a4a2a6f488be2553261f0b2bb7f6e6/pc-image.png)
 #### Mobile
 ![mobile](https://raw.githubusercontent.com/manh132567/Nevel-Tech-Test/c94c806014a4a2a6f488be2553261f0b2bb7f6e6/mobile-image.png)
-"# Nevel-Tech---Test" 
