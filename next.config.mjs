@@ -18,7 +18,7 @@ const nextConfig = {
     'next-translate-plugin',
     'next-translate'
   ],
-  
+  i18n: undefined,
   // Cấu hình để export static site
   output: 'export',  // Thêm cấu hình này để Next.js xuất site tĩnh
   
