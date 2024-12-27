@@ -18,8 +18,6 @@ const nextConfig = {
     'next-translate-plugin',
     'next-translate'
   ],
-  output: 'export',
-  basePath: '/Nevel-Tech-Test',
 };
 
 export default nextConfig;
