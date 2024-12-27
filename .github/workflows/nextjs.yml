@@ -78,9 +78,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          name: page
-          path: build
-          if-no-files-found: error
+          path: ./.next
 
   # Deployment job
   deploy:
