@@ -17,7 +17,9 @@ const nextConfig = {
     'rc-picker',
     'next-translate-plugin',
     'next-translate'
-  ]
+  ],
+  basePath: '/Nevel-Tech---Test',
+  assetPrefix: '/Nevel-Tech---Test/',
 };
 
 export default nextConfig;
