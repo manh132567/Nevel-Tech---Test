@@ -1,0 +1,57 @@
+.public-layout-banner {
+  .slider {
+    width: 100%;
+
+    .slick-dots {
+      left: -33%;
+      bottom: 38px;
+      z-index: inherit;
+
+      @screen sm {
+        left: 0;
+        bottom: 30%;
+      }
+
+      button {
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        top: 4px;
+        left: 4px;
+
+        &::before {
+          font-size: 12px;
+          top: 0px;
+          left: -1.5px;
+          color: theme('colors.white') !important;
+        }
+      }
+
+      .slick-active {
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        border: 1px solid theme('colors.white');
+      }
+    }
+
+    .banner-mobile-title {
+      position: absolute;
+      bottom: 28px;
+      left: 50%;
+      transform: translate(-50%);
+      text-align: center;
+
+      @screen sm {
+        display: block;
+      }
+
+      .title {
+        font-size: 24px;
+        line-height: 27px;
+        font-weight: 400;
+        color: theme('colors.white');
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "search": "Search",
+    "home": "Games Home",
+    "timeLine": "Timeline",
+    "allGame": "All Games",
+    "filter": "Filter"
+    },
+  "menuMobile": {
+    "home": "Home",
+    "timeLine": "Timeline",
+    "allGame": "All\nGames"
+  },
+  "hotGame": {
+    "title": "Hot Game",
+    "view": "View",
+    "filterRelease": "Release",
+    "filterSeller": "Seller"
+  },
+  "hottestCategory": {
+    "title": "Hottest Category",
+    "loadMore": "Load More"
+  },
+  "placeholder": {
+    "search": "Search"
+  }
+}

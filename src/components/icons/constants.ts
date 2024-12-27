@@ -1,0 +1,15 @@
+export type IconName =
+  | 'logo'
+  | 'logo-2'
+  | 'search'
+  | 'home'
+  | 'time-line'
+  | 'all-game'
+  | 'filter'
+  | 'toggle-menu'
+  | 'arrow-right'
+  | 'twitter'
+  | 'youtube'
+  | 'linkedin'
+  | 'music'
+  | 'poker';
