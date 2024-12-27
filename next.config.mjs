@@ -18,6 +18,7 @@ const nextConfig = {
     'next-translate-plugin',
     'next-translate'
   ],
+  srcDir: 'src', 
 };
 
 export default nextConfig;
